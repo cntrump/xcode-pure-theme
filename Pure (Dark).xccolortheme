@@ -89,7 +89,7 @@
 	<key>DVTSourceTextBlockDimBackgroundColor</key>
 	<string>0.5 0.5 0.5 1</string>
 	<key>DVTSourceTextCurrentLineHighlightColor</key>
-	<string>0.144788 0.159624 0.17568 1</string>
+	<string>0.126734 0.140989 0.159814 1</string>
 	<key>DVTSourceTextInsertionPointColor</key>
 	<string>0.550523 0.829257 0.99418 1</string>
 	<key>DVTSourceTextInvisiblesColor</key>
@@ -115,15 +115,15 @@
 		<key>xcode.syntax.identifier.class</key>
 		<string>0.826689 0.792347 0.332222 1</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>0.409714 0.655207 0.998787 1</string>
+		<string>0.315266 0.593446 0.998652 1</string>
 		<key>xcode.syntax.identifier.constant</key>
 		<string>0.830849 0.837287 0.603557 1</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>0.739912 0.851007 0.999382 1</string>
+		<string>0.621607 0.778815 0.999141 1</string>
 		<key>xcode.syntax.identifier.function</key>
 		<string>0.830849 0.837287 0.603557 1</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>0.739912 0.851007 0.999382 1</string>
+		<string>0.621607 0.778815 0.999141 1</string>
 		<key>xcode.syntax.identifier.macro</key>
 		<string>0.689978 0.645398 0.999081 1</string>
 		<key>xcode.syntax.identifier.macro.system</key>
@@ -131,11 +131,11 @@
 		<key>xcode.syntax.identifier.type</key>
 		<string>0.826689 0.792347 0.332222 1</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>0.409714 0.655207 0.998787 1</string>
+		<string>0.315266 0.593446 0.998652 1</string>
 		<key>xcode.syntax.identifier.variable</key>
 		<string>0.830849 0.837287 0.603557 1</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>0.739912 0.851007 0.999382 1</string>
+		<string>0.621607 0.778815 0.999141 1</string>
 		<key>xcode.syntax.keyword</key>
 		<string>0.805443 0.541582 0.844189 1</string>
 		<key>xcode.syntax.mark</key>
